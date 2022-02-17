@@ -12,6 +12,16 @@ $ mkdir -p /$HOME/.config/nvim
 $ cp init.vim /$HOME/.config/nvim/
 
 ```
+## Some shortcuts to keep in mind
 
+| Shortcut | Description |
+| -------- | ------------ |
+| i 	| Insert Mode |
+| Esc 	| Normal/Command Mode|
+| :q	| Exit, Read Only |
+| :q!	| Exit, unsaved |
+| :wq	| Exit, saved |
+| Ctrl + w v | Vertical split-window |
+| Ctrl + w s | Horizontal split-window |
 
 
