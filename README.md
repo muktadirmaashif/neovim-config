@@ -2,7 +2,7 @@
 
 ## installation
 
-Install [Nvim](https://github.com/neovim/neovim/blob/master/INSTALL.md) from here. 
+Install [Nvim](https://github.com/neovim/neovim/blob/master/INSTALL.md).
 Then, 
 ```bash
 # required
@@ -26,13 +26,13 @@ rm -rf ~/.config/nvim/.git
 nvim
 ```
 
-Refer to the [lazynvim documentation](https://lazyvim.github.io/installation) to get started.
-## Points to be noded
+Refer to the [lazynvim documentation](https://lazyvim.github.io/installation) for details. 
+## Points to be noted
 
-* Don't forget to install [lua]{https://www.lua.org/download.html} and any [nerd font](https://www.nerdfonts.com/font-downloads) you like. Then in your terminal of choice, select that font as default. Otherwise the icons won't be visible.
+Don't forget to install [lua](https://www.lua.org/download.html) and any [nerd font](https://www.nerdfonts.com/font-downloads) you like. Then in your terminal of choice, select that font as default. Otherwise the icons won't be visible.
 
 
-P.S. I like to alias vi='vim'. 
+P.S. I like to `alias vi='vim'`. 
 
 happy vi-ing. 
 
