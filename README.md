@@ -32,7 +32,7 @@ Refer to the [lazynvim documentation](https://lazyvim.github.io/installation) fo
 Don't forget to install [lua](https://www.lua.org/download.html) and any [nerd font](https://www.nerdfonts.com/font-downloads) you like. Then in your terminal of choice, select that font as default. Otherwise the icons won't be visible.
 
 
-P.S. I like to `alias vi='vim'`. 
+P.S. I like to `alias vi='vim'` and `alias nv='nvim'`. 
 
 happy vi-ing. 
 
